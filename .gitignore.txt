@@ -1,0 +1,22 @@
+# Auto-saved backup files
+_autosave-*
+
+# KiCad backup files
+*-bak
+
+# KiCad project backups
+*-backups/
+
+# Cache files
+fp-info-cache
+
+# Auto-generated files
+*.kicad_prl
+
+# KiCad temporary and auxiliary files
+*.tmp
+
+# Git-specific files
+# .gitignore.txt
+
+
